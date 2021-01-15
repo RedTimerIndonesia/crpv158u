@@ -11,4 +11,4 @@ New Red Timer Gamemode
  
  1. Credits to Dandy Bagus Prasetyo and Team for Gamemode[LRP V7]
  2. Credits to Christian Malik(tianmetal) for Command '/mark' '/gotomark '/gotols' '/gotosf' '/gotolv' '/up' '/ft' '/dn' etc.
- 3. Credits to Lukman, RogerZ & FakhriYT for Scripting Support.
+ 3. Credits to @Lukman350, RogerZ & FakhriYT for Scripting Support.
